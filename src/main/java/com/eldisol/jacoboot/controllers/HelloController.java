@@ -1,4 +1,4 @@
-package com.eldisol.jacoboot.controller;
+package com.eldisol.jacoboot.controllers;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
