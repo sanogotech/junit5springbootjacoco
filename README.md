@@ -1,5 +1,3 @@
-## RDV à 13h25 !!!
-
 
 ## Java code coverage example 
 > Jacoco, Spring Boot, Maven and Junit 5, JaCoCo Jenkins Plugin 
@@ -33,4 +31,8 @@ https://stackoverflow.com/questions/45205024/maven-project-option-is-not-showing
 ##### The result, as shown in the image below, is something like this in `Coverage Trend` 
 
 ![image](https://drive.google.com/uc?export=view&id=1r6UsLnH1jfh4fqvaFUT6mBOaFuxV-PXn)
+
+## Start web app
+run: 
+> `mvn spring-boot:run`
 
